@@ -1,6 +1,6 @@
 var store = [{
-        "title": "github.io 블로그 시작하기",
-        "excerpt":"GitHub Blog 서비스인 github.io 블로그 시작하기로 했다. GitHub Blog 서비스의 이름은 Pages이다. Pages가 다른 블로그 플랫폼 보다 편한 것 같아서 마음에 든다. 다른 사람들도 같이 많이 사용했으면 좋겠다는 생각이 든다. YFM에서 정의한 제목을 이중 괄호 구문으로 본문에 추가할 수 있다. 이 글의 제목은 github.io 블로그 시작하기이고 마지막으로 수정된 시간은 2019-04-13...","categories": ["Blog"],
+        "title": "NHN 베이스캠프 1주차 소감",
+        "excerpt":"NHN 베이스 캠프 1주차가 끝났다.  많은 양의 과제를 내주었는데, 구체적인 양으로는 책 약 300페이지를 구현하고 시험을 보았다.   현재 이 글 역시, 베이스 캠프의 과제이기도 하다.   다음주부터 양이 엄청 방대해진다고 하는데..  개발자로 단기간에 빠르게 성장할 수 있을것 같아 기대가 된다.  ","categories": ["Blog"],
         "tags": ["Blog"],
         "url": "/blog/first-post/",
         "teaser": null
