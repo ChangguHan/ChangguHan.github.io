@@ -6,7 +6,6 @@ categories:
   - Blog
 tags:
   - Blog
-last_modified_at: {{ page.last_modified_at }}
 ---
 
 NHN 베이스 캠프 1주차가 끝났다.  
