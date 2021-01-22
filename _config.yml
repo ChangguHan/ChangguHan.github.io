@@ -93,22 +93,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "NHN godo 한창"
+  name             : "NHN godo 한창구"
   avatar           : "/assets/images/chan.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
   location         : "Somewhere"
-  email            :
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-       url: "cottage123@naver.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url: "https://github.com/ChangguHan"
-
+  email            : "cottage123@naver.com"
 # Site Footer
 footer:
   links:

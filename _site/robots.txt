@@ -1,1 +1,1 @@
-Sitemap: /sitemap.xml
+Sitemap: https://changguhan.github.io/sitemap.xml
