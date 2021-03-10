@@ -2,9 +2,9 @@
 title:  "슬기로운 쿼리생활"
 
 categories:
-- Blog
-  tags:
-- Blog
+    - Blog
+tags:
+    - Blog
 ---
 ### NHN 베이스캠프 기초 교육 정리
 - 주제 : SQL 이론 및 쿼리 검수 결과 공유
